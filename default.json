@@ -288,7 +288,7 @@
       "values": {
         "Register": "/register %p %p",
         "Login": "/login %p",
-        "Password": "huy2007",
+        "Password": "",
         "Delay": 0,
         "Title": true,
         "Chat": true
